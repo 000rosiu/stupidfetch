@@ -1,5 +1,6 @@
 # stupidfetch
 Very-minimized neofetch but stupid :-)
+No colors, no distro logos no all of great stuff.
 
 # Why it's more stupid than neofetch? Because it is!
 Installer (not supported on Arch Linux) : 
