@@ -1,5 +1,5 @@
 # stupidfetch
-Very-minimized neoftech but stupid :-)
+Very-minimized neofetch but stupid :-)
 
 # Why it's more stupid than neofetch? Because it is!
 Installer (not supported on Arch Linux) : 
