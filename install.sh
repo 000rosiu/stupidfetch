@@ -10,7 +10,7 @@ install_norm() {
     scname="$fname.sh"
     fpath="$inpath/$scname"
     
-    git clone https://github.com/awitech/$stupidfetch.git
+    git clone https://github.com/awitech/stupidfetch.git
     cd $fname
     echo -e "\033[0;34m:: \033[0mLoading installation script of stupidfetch..."
     cp $scname $fpath
