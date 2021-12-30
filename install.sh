@@ -17,6 +17,7 @@ install_norm() {
     chmod +x $fpath
     sudo ln -s $fpath /usr/bin/$fname
     echo -e "\033[1;32m:: \033[0mInstallating of STUPIDFETCH completed."
+    echo -e "Installed STUPIDFETCH in: \033[1;36m$(which $fname)"
     cd ..
     rm -rf $fname
 }
