@@ -1,11 +1,11 @@
 # stupidfetch
-Very-minimized neofetch but stupid :-)
-Without colors,without distro logos and installer.
+Like neofetch, but without colors,without distro logos and installer. Fix it yourself, too easy to use ...
+
+#Screenshots
 ![Screenshot](https://i.imgur.com/xKkGR2G.png)
 
-#
+# Why it's stupid?
+Guess the tool truncated too much, that's why!
 
-# Why it's more stupid than neofetch? 
-Because it is!
 # Installation
 There is no installer, fix it yourself :-)
