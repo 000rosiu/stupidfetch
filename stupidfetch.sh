@@ -17,7 +17,7 @@ host=$(< /etc/hostname)
 sh=$(basename $SHELL)
 uptime=$(uptime)
 
-
+echo -e " StupidFetch - Shell GNU/Linux fetch "
 echo -e "    .-.     I'am: $iam@$host"
 echo -e "    oo|     Shell: $sh      "
 echo -e "   /  \     Kernel: $kernel "
